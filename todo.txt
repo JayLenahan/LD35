@@ -1,0 +1,10 @@
+get the unity web player / webgl versions to work
+allow player to move freely anywhere on camera
+make multiple break apart meshes, and rotate destructible objects randomly
+make spear triangular
+make shader outline for player
+make custom outlined shader for engine particles
+change engine color gradients on forward/backward/stationary movement
+make noise enemies use a flat shader
+change object colors/shaders
+make exploded chunks fade away
